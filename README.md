@@ -18,7 +18,7 @@ or
 
 2. 手动安装：
 
-        0) [下载 Chrome 拓展](https://github.com/Everything-in-NKU/Patch-for-Elective-System-of-NKU/releases/latest)
+        0) 下载 [Chrome 拓展](https://github.com/Everything-in-NKU/Patch-for-Elective-System-of-NKU/releases/latest)
 
         1) 打开 Chrome 设置 -> 拓展程序
 
