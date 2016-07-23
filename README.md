@@ -12,13 +12,11 @@
 ### 如果并不想使用刷课姬本喵强烈建议使用这个[油猴脚本](https://github.com/NKUCodingCat/Patch-for-Elective-System-of-NKU-FF/tree/master/Greasemonkey)
 
 # 安装
-1. [Chrome 应用商店](https://chrome.google.com/webstore/detail/%E5%8D%97%E5%BC%80%E9%80%89%E8%AF%BE%E7%B3%BB%E7%BB%9F%E8%A1%A5%E4%B8%81/mgfhlolniipngcfhakpjlmcllmfjgmal)
+[从 Chrome 应用商店安装](https://chrome.google.com/webstore/detail/%E5%8D%97%E5%BC%80%E9%80%89%E8%AF%BE%E7%B3%BB%E7%BB%9F%E8%A1%A5%E4%B8%81/mgfhlolniipngcfhakpjlmcllmfjgmal)
 
 or
 
-2. 手动安装：
-
-        0) 下载 [Chrome 拓展](https://github.com/Everything-in-NKU/Patch-for-Elective-System-of-NKU/releases/latest)
+[下载 Chrome 拓展](https://github.com/Everything-in-NKU/Patch-for-Elective-System-of-NKU/releases/latest)并手动安装：
 
         1) 打开 Chrome 设置 -> 拓展程序
 
