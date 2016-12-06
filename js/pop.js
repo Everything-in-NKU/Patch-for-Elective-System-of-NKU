@@ -106,7 +106,7 @@ window.onload = function () {
         'lastFocusedWindow': true
     },
         function (tabs) {
-            Par(tabs[0].url)[4] === "222.30.32.10" ? Xk_Yes() : XK_No();
+            Par(tabs[0].url)[4] === "222.30.49.10" ? Xk_Yes() : XK_No();
         });
 
 };
